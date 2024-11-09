@@ -2,6 +2,8 @@
 
 This MATLAB script performs color transfer between two images. Given two images, \$A\$ (source) and \$B\$ (target), this script outputs a new image with the color characteristics of \$B\$ applied to A.
 
+Supports .JPEG, .PNG, .TIFF, etc.
+
 Below are examples demonstrating the input images and the resulting output.
 
 # Example 1
@@ -75,6 +77,10 @@ Below are examples demonstrating the input images and the resulting output.
 
 ## Usage
 
-1. Clone the repository:
+1. Clone the repository
+2. Open "ColorTransfer.m" in MATLAB
+3. Edit src and target file path strings to input images:
    ```bash
-   git clone https://github.com/your-username/your-repository.git
+   src = imread("imageA.tif");   %Input Image
+   tgt = imread("imageB.png");   %Desired Color
+
