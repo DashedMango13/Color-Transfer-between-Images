@@ -4,9 +4,13 @@ This MATLAB script performs color transfer between two images. Given two images,
 
 Supports .JPEG, .PNG, .TIFF, etc.
 
+Based on Reinhard, Erik & Ashikhmin, Michael & Gooch, Bruce & Shirley, Peter. (2001). Color Transfer between Images. IEEE Computer Graphics and Applications. 21. 34-41. 10.1109/38.946629. 
+
+# Examples
+
 Below are examples demonstrating the input images and the resulting output.
 
-# Example 1
+## Example 1
 
 <p align="center">
   <table>
@@ -23,7 +27,7 @@ Below are examples demonstrating the input images and the resulting output.
   </table>
 </p>
 
-# Example 2
+## Example 2
 
 <p align="center">
   <table>
@@ -41,7 +45,7 @@ Below are examples demonstrating the input images and the resulting output.
 </p>
 
 
-# Example 3
+## Example 3
 
 <p align="center">
   <table>
@@ -58,7 +62,7 @@ Below are examples demonstrating the input images and the resulting output.
   </table>
 </p>
 
-# Example 4
+## Example 4
 
 <p align="center">
   <table>
