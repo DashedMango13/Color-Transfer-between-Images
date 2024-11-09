@@ -46,9 +46,9 @@ Below is an example demonstrating the input images and the resulting output.
       <th>Output Image</th>
     </tr>
     <tr>
-      <td><img src="path/to/imageA.jpg" height="200"></td>
-      <td><img src="path/to/imageB.jpg" height="200"></td>
-      <td><img src="path/to/output.jpg" height="200"></td>
+      <td><img src="README Assets/to/harbor.jpg" height="200"></td>
+      <td><img src="path/to/palm.jpg" height="200"></td>
+      <td><img src="path/to/PalmHarbor.jpg" height="200"></td>
     </tr>
   </table>
 </p>
