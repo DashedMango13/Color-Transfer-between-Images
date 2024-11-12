@@ -87,4 +87,4 @@ Below are examples demonstrating the input images and the resulting output.
    ```bash
    src = imread("imageA.tif");   %Input Image
    tgt = imread("imageB.png");   %Desired Color
-
+4. Run the script and the result will be outputted to ""
